@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		EC011BB122AC28EB00E4FDB0 /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = EC011BAF22AC28EB00E4FDB0 /* LICENSE */; };
+		EC011BB222AC28EB00E4FDB0 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = EC011BB022AC28EB00E4FDB0 /* README.md */; };
 		EC05D73F22ABBD910069F9A0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC05D73E22ABBD910069F9A0 /* AppDelegate.swift */; };
 		EC05D74222ABBD910069F9A0 /* SwiftRestoredMasterDetail.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = EC05D74022ABBD910069F9A0 /* SwiftRestoredMasterDetail.xcdatamodeld */; };
 		EC05D74422ABBD910069F9A0 /* MasterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC05D74322ABBD910069F9A0 /* MasterViewController.swift */; };
@@ -17,6 +19,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		EC011BAF22AC28EB00E4FDB0 /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		EC011BB022AC28EB00E4FDB0 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		EC05D73B22ABBD910069F9A0 /* SwiftRestoredMasterDetail.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftRestoredMasterDetail.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EC05D73E22ABBD910069F9A0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		EC05D74122ABBD910069F9A0 /* SwiftRestoredMasterDetail.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = SwiftRestoredMasterDetail.xcdatamodel; sourceTree = "<group>"; };
@@ -42,6 +46,8 @@
 		EC05D73222ABBD910069F9A0 = {
 			isa = PBXGroup;
 			children = (
+				EC011BAF22AC28EB00E4FDB0 /* LICENSE */,
+				EC011BB022AC28EB00E4FDB0 /* README.md */,
 				EC05D73D22ABBD910069F9A0 /* SwiftRestoredMasterDetail */,
 				EC05D73C22ABBD910069F9A0 /* Products */,
 			);
@@ -130,6 +136,8 @@
 			files = (
 				EC05D74E22ABBD930069F9A0 /* LaunchScreen.storyboard in Resources */,
 				EC05D74B22ABBD930069F9A0 /* Assets.xcassets in Resources */,
+				EC011BB222AC28EB00E4FDB0 /* README.md in Resources */,
+				EC011BB122AC28EB00E4FDB0 /* LICENSE in Resources */,
 				EC05D74922ABBD910069F9A0 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
