@@ -4,7 +4,7 @@ With iOS 13 Apple introduced a new form of state restoration which is based on N
 
 ## Description:
 
-A sample project showing the UI state restoration code for the master detail template with Core Data enabled. It works for restoration to either portrait on landscape regardless of orientation it was preserved in. Except not in iOS 13b1 because of a bug in the new panel implementation of the split controller (FB6126906). 
+A sample project showing the UI state restoration code for the master detail template with Core Data enabled. It works for restoration to either portrait on landscape regardless of orientation it was preserved in.
 
 ## What was added:
 
